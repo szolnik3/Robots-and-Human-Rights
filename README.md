@@ -4,12 +4,12 @@ This program is to check IF the AI agent....
 2. Physically harms any person(s)...
 If the agent does, then the agent is stopped.
 
-Parameters:
+# Parameters:
     Agent (object):
     Action (object):
     Effected_person(optional, list of objects):
     
-Algorithm:
+# Algorithm:
     Scan through each amendment in the bill of rights...
     1. If the action violates any persons then reject the action.
     2. If the action physically harms any persons, destroy (turn off) the agent.
@@ -23,7 +23,7 @@ Github: https://github.com/szolnik3
 
 Email: sjzolnik@hotmail.com
 
-Personal Concern: 
+# Personal Concern: 
 Each year, AI agents become more intelligent. We humans may have to share this world one day
 with AI agents... Do we treat these agents as equals? Should we give agents the same rights as humans? How can we be
 sure those agents will treat us with respect? How can they know what rights are? If an agent does NOT know what
