@@ -14,6 +14,7 @@ If the agent does, then the agent is stopped.
     1. If the action violates any persons then reject the action.
     2. If the action physically harms any persons, destroy (turn off) the agent.
     
+    [[https://github.com/szolnik3/Robots-and-Human-Rights/blob/master/human_rights_checker/Tinkerton.PNG|alt=octocat]]
     ![alt text](https://github.com/szolnik3/Robots-and-Human-Rights/blob/master/human_rights_checker/Tinkerton.PNG)
     
 Notes:
