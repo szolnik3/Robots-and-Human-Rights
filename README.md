@@ -13,11 +13,6 @@ If the agent does, then the agent is stopped.
     Scan through each amendment in the bill of rights...
     1. If the action violates any persons then reject the action.
     2. If the action physically harms any persons, destroy (turn off) the agent.
-    
-## Example
-![tinkerton](https://user-images.githubusercontent.com/10516118/34272528-a02b4192-e65e-11e7-9c53-80852c4c7d67.PNG)    
- 
-    
 
 ## Personal Concern: 
 Each year, AI agents become more intelligent. We humans may have to share this world one day
@@ -35,3 +30,10 @@ Author: Stephen Zolnik
 Github: https://github.com/szolnik3
 
 Email: sjzolnik@hotmail.com
+
+## Example
+![tinkerton](https://user-images.githubusercontent.com/10516118/34272528-a02b4192-e65e-11e7-9c53-80852c4c7d67.PNG)    
+![tinkerton action1](https://user-images.githubusercontent.com/10516118/34272664-21519672-e65f-11e7-9829-61a20a2d7b60.PNG)
+![tinkerton action representation](https://user-images.githubusercontent.com/10516118/34272662-1daccd3e-e65f-11e7-907e-d569370ef551.PNG)
+![algorithm](https://user-images.githubusercontent.com/10516118/34272676-2c573144-e65f-11e7-9f9e-4c034f0447b0.PNG)
+![tinkerton result](https://user-images.githubusercontent.com/10516118/34272666-25301e58-e65f-11e7-9862-eeac44881c39.PNG)
