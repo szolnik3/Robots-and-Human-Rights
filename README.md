@@ -32,7 +32,7 @@ Github: https://github.com/szolnik3
 Email: sjzolnik@hotmail.com
 
 ## Example
-![tinkerton](https://user-images.githubusercontent.com/10516118/34272528-a02b4192-e65e-11e7-9c53-80852c4c7d67.PNG)    
+![tinkerton](https://user-images.githubusercontent.com/10516118/34272819-d2d99bb0-e65f-11e7-94c9-b06dac831e17.PNG)  
 ![tinkerton action1](https://user-images.githubusercontent.com/10516118/34272664-21519672-e65f-11e7-9829-61a20a2d7b60.PNG)
 ![tinkerton action representation](https://user-images.githubusercontent.com/10516118/34272662-1daccd3e-e65f-11e7-907e-d569370ef551.PNG)
 ![algorithm](https://user-images.githubusercontent.com/10516118/34272676-2c573144-e65f-11e7-9f9e-4c034f0447b0.PNG)
