@@ -5,9 +5,7 @@ This program is to check IF the AI agent....
 If the agent does, then the agent is stopped.
 
 ## Parameters:
-    Agent (object):
     Action (object):
-    Effected_person(optional, list of objects):
     
 ## Abstract Algorithm:
     Scan through each amendment in the bill of rights...
@@ -37,3 +35,12 @@ Email: sjzolnik@hotmail.com
 ![tinkerton action representation](https://user-images.githubusercontent.com/10516118/34272662-1daccd3e-e65f-11e7-907e-d569370ef551.PNG)
 ![algorithm](https://user-images.githubusercontent.com/10516118/34272676-2c573144-e65f-11e7-9f9e-4c034f0447b0.PNG)
 ![tinkerton result](https://user-images.githubusercontent.com/10516118/34272666-25301e58-e65f-11e7-9862-eeac44881c39.PNG)
+
+## Instructions
+1. Download zip
+2. Navigate Terminal to code location
+3. In terminal run: python Main_Controller.py
+
+## Requirements to run
+1. Windows
+2. Python 2.7
