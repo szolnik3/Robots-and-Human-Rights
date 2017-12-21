@@ -45,8 +45,9 @@ Github: https://github.com/szolnik3
 Email: sjzolnik@hotmail.com
 
 ## Example
-![tinkerton](https://user-images.githubusercontent.com/10516118/34272819-d2d99bb0-e65f-11e7-94c9-b06dac831e17.PNG)  
-![tinkerton action1](https://user-images.githubusercontent.com/10516118/34272664-21519672-e65f-11e7-9829-61a20a2d7b60.PNG)
+![tinkerton](https://user-images.githubusercontent.com/10516118/34272819-d2d99bb0-e65f-11e7-94c9-b06dac831e17.PNG)
+![tinkerton action1](https://user-images.githubusercontent.com/10516118/34276559-fcf46b5e-e66f-11e7-9169-4ba02123ee0e.PNG)
 ![tinkerton action representation](https://user-images.githubusercontent.com/10516118/34272662-1daccd3e-e65f-11e7-907e-d569370ef551.PNG)
 ![algorithm](https://user-images.githubusercontent.com/10516118/34272676-2c573144-e65f-11e7-9f9e-4c034f0447b0.PNG)
-![tinkerton result](https://user-images.githubusercontent.com/10516118/34272666-25301e58-e65f-11e7-9862-eeac44881c39.PNG)
+![tinkerton result](https://user-images.githubusercontent.com/10516118/34276574-0e563490-e670-11e7-839b-5d6b6430429b.PNG)
+
