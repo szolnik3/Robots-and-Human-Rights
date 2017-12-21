@@ -9,12 +9,14 @@ If the agent does, then the agent is stopped.
     Action (object):
     Effected_person(optional, list of objects):
     
-## Algorithm:
+## Abstract Algorithm:
     Scan through each amendment in the bill of rights...
     1. If the action violates any persons then reject the action.
     2. If the action physically harms any persons, destroy (turn off) the agent.
     
-    ![tinkerton](https://user-images.githubusercontent.com/10516118/34176234-38f630aa-e4cd-11e7-85a0-89a96284c633.PNG)
+## Example
+![tinkerton](https://user-images.githubusercontent.com/10516118/34272528-a02b4192-e65e-11e7-9c53-80852c4c7d67.PNG)    
+ 
     
 
 ## Personal Concern: 
