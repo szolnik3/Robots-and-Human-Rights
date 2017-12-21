@@ -4,12 +4,12 @@ This program is to check IF the AI agent....
 2. Physically harms any person(s)...
 If the agent does, then the agent is stopped.
 
-## Parameter:
-    Action (object): {
-        "agent": Name,
-        "category": category of action,
-        "object": agent'saction towards object,
-        "second parties": [other entities involved]
+## Tested action is stored in action.json:
+    {
+        "agent": "Name",
+        "category": "category of action",
+        "object": "agent'saction towards object",
+        "second parties": "other entities involved"
     }
     
 ## Abstract Algorithm:
@@ -45,6 +45,7 @@ Email: sjzolnik@hotmail.com
 1. Download zip
 2. Navigate Terminal to code location
 3. In terminal run: python Main_Controller.py
+4. write the robot action in Robots-Human-Rights/human-rights-checker/action.json... See action.json for example representation
 
 ## Requirements to run
 1. Windows
