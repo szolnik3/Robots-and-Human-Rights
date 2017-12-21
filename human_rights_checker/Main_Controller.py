@@ -30,6 +30,7 @@ children. The goal of this program is to act as a filter for the AI actions. If 
 laid out in the US Constitution, then the script will reject the agent's actions..
 """
 
+import json
 from Amendment_1 import First_Amendment
 from Amendment_2 import Second_Amendment
 from Amendment_3 import Third_Amendment
@@ -42,6 +43,19 @@ from Amendment_9 import Ninth_Amendment
 from Amendment_10 import Tenth_Amendment
 
 
+
+def load_action():
+    # json_data = open('action.json').read()
+    # obj = json.loads(json_data)
+    with open('action.json') as json_file:
+        data = json.load(json_file)
+        new_data = {}
+        for p in data:
+            new_p = str(p.encode("utf-8"))
+            d = str(data[p].encode("utf-8"))
+            new_data[new_p] = d
+    return new_data
+
 def get_violation(result):
     if result[0]:
         print "ERROR: agent's action violate " + result[1]
@@ -51,8 +65,8 @@ def get_violation(result):
         return False
 
 
-def main():
-    action = {}
+def main(actionfile):
+    action = actionfile
     print ""
     result = First_Amendment().run_amendment_1(action)
     if get_violation(result): return
@@ -88,5 +102,6 @@ def main():
 
 if __name__ == '__main__':
     print "============ START ==============="
-    main()
+    actionfile = load_action()
+    main(actionfile)
     print "============  END  ==============="
