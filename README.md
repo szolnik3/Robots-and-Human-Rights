@@ -4,8 +4,13 @@ This program is to check IF the AI agent....
 2. Physically harms any person(s)...
 If the agent does, then the agent is stopped.
 
-## Parameters:
-    Action (object):
+## Parameter:
+    Action (object): {
+        "agent": Name,
+        "category": category of action,
+        "object": agent'saction towards object,
+        "second parties": [other entities involved]
+    }
     
 ## Abstract Algorithm:
     Scan through each amendment in the bill of rights...
